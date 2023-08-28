@@ -1,6 +1,5 @@
 
-//Q1.Write a Java program to print 'Hello' on the screen and your name on a separate line.
-//
+//Q1.Write a Java program to print 'Hello' on the screen and your name on a separate line.//
 /*class Helloworld {
     public static void main(String[] args) {
     System.out.println("Hello"); 
@@ -11,8 +10,7 @@ OUTPUT:
 Hello
 
 
-//Q2.Write a Java program to print the sum (addition), multiply, subtract, divide, and remainder of two numbers.
-//
+//Q2.Write a Java program to print the sum (addition), multiply, subtract, divide, and remainder of two numbers.//
 /* class Calculations{
 public static void main(String args[])
 {
@@ -39,7 +37,7 @@ OUTPUT:
 2
 
 
-//Write a Java program to swap two numbers by using the third variable//
+//@3. Write a Java program to swap two numbers by using the third variable//
 /* class SwappingNumbers{
 public static void main(String args[])
 {
@@ -56,8 +54,8 @@ System.out.println("value of b"+b);
 OUTPUT:
  value of a:20
 value of b10
-//Write a Java program to swap two numbers without using the third variable
-//
+    
+//Q4. Write a Java program to swap two numbers without using the third variable//
 /* class SwapUsingTwoVar{
 public static void main(String[] args)
 {
@@ -75,8 +73,7 @@ value of a:20
 value of b:10
 
 
-//Write a Java program to print the area of a circle
-//
+//Q5. Write a Java program to print the area of a circle//
 /* class AreaOfCircle{
 public static void main(String args[])
 {
@@ -91,9 +88,9 @@ System.out.println("area of circle: "+area);
 OUTPUT:
 area of circle: 113.03999999999999
 
-//Write a Java program to print the ASCII value of a given character.
+//Q6.Write a Java program to print the ASCII value of a given character.
 //
-class AsciiVal{
+/* class AsciiVal{
 public static void main(String args[])
 {
 char ch1 = 'a';  
@@ -103,7 +100,7 @@ int asciivalue2 = ch2;
 System.out.println("The ASCII value of " + ch1 + " is: " + asciivalue1);  
 System.out.println("The ASCII value of " + ch2 + " is: " + asciivalue2);  
 }
-}
+}*/
 OUTPUT:
 The ASCII value of a is: 97
 The ASCII value of b is: 98
