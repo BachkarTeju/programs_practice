@@ -16,9 +16,9 @@ public class EncapsulationExample {
         System.out.println("Enter the Salary");
         emp.setSalary(sc.nextInt());
 
-  System.out.println("Employee name is :"+ emp.getName() );
-  System.out.println("Employee id is :"+" "+ emp.getId());
-  System.out.println(" Employee salary is :"+ emp.getSalary());
+  System.out.println("Employee name  :"+ emp.getName() );
+  System.out.println("Employee id  :"+" "+ emp.getId());
+  System.out.println(" Employee salary  :"+ emp.getSalary());
     }
 }
 
